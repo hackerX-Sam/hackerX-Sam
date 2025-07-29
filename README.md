@@ -12,6 +12,9 @@
 <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" width="40" height="40"/>
 </a>
+<a href="https://instagram.com/_sami_ran_47" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
+</a>
 
 
 
