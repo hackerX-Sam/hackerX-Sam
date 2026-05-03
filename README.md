@@ -68,6 +68,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=flat-square&logo=rocket&logoColor=white)
 
 ## 📊 Github Analytics
 
