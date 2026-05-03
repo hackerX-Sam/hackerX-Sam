@@ -1,3 +1,27 @@
+## Connect With Me: 
+
+<a href="https://twitter.com/samiran95966149" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" alt="Twitter X" width="40" height="40" style="background-color: #000000; border-radius: 50%; padding: 5px;"/>
+</a>
+
+<a href="https://linkedin.com/in/samiran-das-33531123b" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/hackerX-Sam" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40" style="background-color: #6e5494; border-radius: 50%; padding: 5px;"/>
+</a>
+
+<a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-logo.png" alt="Medium" width="40" height="40" style="background-color: #000000; border-radius: 50%; padding: 5px;"/>
+</a>
+
+
+<a href="https://instagram.com/_sami_ran_47" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
+</a>
+
+
 ## 🚀 Tech Stack:
 
 ### Programming Languages:
