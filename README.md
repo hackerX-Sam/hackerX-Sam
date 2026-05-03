@@ -1,22 +1,22 @@
 ## Connect With Me:
 
-<p align="center">
+<p>
   <a href="https://twitter.com/samiran95966149" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://linkedin.com/in/samiran-das-33531123b" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/hackerX-Sam" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-logo.png" width="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://instagram.com/_sami_ran_47" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
   </a>
