@@ -1,91 +1,225 @@
-## Connect With Me:
+<div align="center">
 
-<p>
-  <a href="https://twitter.com/samiran95966149" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samiran-das-33531123b" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/hackerX-Sam" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@YOUR_MEDIUM" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/ffffff/medium-logo.png" width="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/_sami_ran_47" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40"/>
-  </a>
+<!-- PORTRAIT - Automatically generated SVG from your uploaded photo! -->
+<img src="assets/portrait.svg" width="300" alt="Samiran">
+
+<br>
+
+<!-- NAME / TAGLINE - animated typing -->
+<a href="https://github.com/hackerX-Sam">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Samiran;Passionate+Programmer;Open+Source+Contributor;01100011+01101111+01100100+01100101" alt="typing banner">
+</a>
+
+<br>
+
+<!-- SOCIALS -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>&nbsp;<a href="https://portfolio-xi-opal-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>&nbsp;<a href="https://codeforces.com/profile/YOUR_CODEFORCES"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"></a>&nbsp;<a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+
+<img src="https://komarev.com/ghpvc/?username=hackerX-Sam&style=flat&color=39d353&label=profile+views" alt="profile views">
+
+</div>
+
+---
+
+## `~/` 𝕎ℍ𝕆 𝔸𝕄 𝕀
+
+```console
+$ cat about.txt
+```
+
+Hi, I'm **Samiran**. I'm a passionate programmer who thrives on turning ideas into reality through clean, efficient, and impactful code.
+
+- Currently building **[Project 1](https://github.com/hackerX-Sam/Project1)** and **[Project 2](https://github.com/hackerX-Sam/Project2)**
+- Portfolio: **[portfolio-xi-opal-14.vercel.app](https://portfolio-xi-opal-14.vercel.app/)**
+- Learning **React + Go**
+- Fun fact: **I love building simulators and backend systems.**
+
+<br>
+
+### 🚀 𝕋𝔼ℂℍ 𝕊𝕋𝔸ℂ𝕂:
+
+**ℙℝ𝕆𝔾ℝ𝔸𝕄𝕄𝕀ℕ𝔾 𝕃𝔸ℕ𝔾𝕌𝔸𝔾𝔼𝕊:**
+<br>
+<img height="75" src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" />
+<img height="75" src="https://skillicons.dev/icons?i=cpp&theme=dark" alt="C++" />
+<img height="75" src="https://skillicons.dev/icons?i=java&theme=dark" alt="Java" />
+<img height="75" src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
+<img height="75" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
+<img height="75" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
+<img height="75" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL" />
+<img height="75" src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" />
+
+---
+
+**𝔽ℝ𝕆ℕ𝕋𝔼ℕ𝔻 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝕄𝔼ℕ𝕋:**
+<br>
+<img height="75" src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML5" />
+<img height="75" src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS3" />
+<img height="75" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" />
+<img height="75" src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" />
+<img height="75" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" />
+<img height="75" src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="Next.js" />
+<img height="75" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="TailwindCSS" />
+
+---
+
+**𝔹𝔸ℂ𝕂𝔼ℕ𝔻 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝕄𝔼ℕ𝕋:**
+<br>
+<img height="75" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" />
+<img height="75" src="https://skillicons.dev/icons?i=express&theme=dark" alt="Express.js" />
+<img height="75" src="https://skillicons.dev/icons?i=django&theme=dark" alt="Django" />
+<img height="75" src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" />
+
+---
+
+**𝔻𝔸𝕋𝔸𝔹𝔸𝕊𝔼𝕊:**
+<br>
+<img height="75" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+<img height="75" src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" />
+
+---
+
+**𝕋𝕆𝕆𝕃𝕊 & ℙ𝕃𝔸𝕋𝔽𝕆ℝ𝕄𝕊:**
+<br>
+<img height="75" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" />
+<img height="75" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" />
+<img height="75" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" />
+<img height="75" src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" />
+<img height="75" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" />
+<img height="50" src="assets/antigravity.svg" alt="Antigravity" />
+
+---
+
+<div align="center">
+
+## `~/` ℂ𝕆ℕ𝕋ℝ𝕀𝔹𝕌𝕋𝕀𝕆ℕ ℂ𝔸𝕃𝔼ℕ𝔻𝔸ℝ
+
+<!-- 3D isometric calendar, generated every 6h by .github/workflows/metrics.yml -->
+<img src="assets/metrics.isocalendar.svg?v=2" width="90%" alt="3D isometric contribution calendar" onerror="this.style.display='none'">
+
+<br><br>
+
+<!-- Snake eats the contribution graph - generated by .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/hackerX-Sam/readmeprofile/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hackerX-Sam/readmeprofile/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/hackerX-Sam/readmeprofile/output/snake.svg" width="100%" alt="snake eating the contribution graph" onerror="this.style.display='none'">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` 𝕋ℍ𝔼 ℕ𝕌𝕄𝔹𝔼ℝ𝕊
+
+<!-- Using github-readme-stats as a drop-in replacement for the custom scripts -->
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hackerX-Sam&theme=tokyonight" alt="GitHub Profile Summary">
 </p>
 
----
-
-## 🚀 Tech Stack:
-
-### Programming Languages:
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-### Frontend Development:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-### Backend Development:
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-### Databases:
-
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-### Tools & Platforms:
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=rocket&logoColor=white)
-
----
-
-## 📊 Github Analytics
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hackerX-Sam&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hackerX-Sam&theme=tokyonight" height="180"/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hackerX-Sam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
+  &nbsp;
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hackerX-Sam&layout=compact&theme=tokyonight&hide_border=true" alt="most used languages">
 </p>
 
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hackerX-Sam&theme=tokyonight"/>
+<p align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hackerX-Sam&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+  &nbsp;
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hackerX-Sam&theme=tokyonight&utcOffset=5.5" alt="Productive Time Activity">
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 `~/` 𝔽𝔼𝔸𝕋𝕌ℝ𝔼𝔻 𝕄𝔸𝕊𝕋𝔼ℝℙ𝕀𝔼ℂ𝔼𝕊
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<br>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>ℂ𝕐𝔹𝔼ℝ𝕊ℍ𝕀𝔼𝕃𝔻ℙℝ𝕆 𝕍1.3</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/cybershieldpro-v1.3">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/cybershieldpro-v1.3" width="100%" alt="CyberShieldPro Preview">
+        </a>
+      </p>
+      <p align="center">
+        An advanced cybersecurity and network protection system designed to detect and mitigate threats.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Security-000000?style=flat-square&logo=security&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>𝕆𝔹𝕊𝔼ℝ𝕍𝔼𝕏</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/observeX---realtime-desktop-monitoring-system">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/observeX---realtime-desktop-monitoring-system" width="100%" alt="ObserveX Preview">
+        </a>
+      </p>
+      <p align="center">
+        A real-time desktop monitoring and telemetry system for tracking device performance and system activity.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Monitoring-FF4F00?style=flat-square&logo=databricks&logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>𝔼𝕍𝔼ℕ𝕋ℝ𝔸</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/EVENTRA-real-time-event-streaming-monitoring-platform-" width="100%" alt="Eventra Preview">
+        </a>
+      </p>
+      <p align="center">
+        A high-throughput real-time event streaming and monitoring platform built for massive scale.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Streaming-E0234E?style=flat-square&logo=apachekafka&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <h3>𝕊𝔸𝕍𝕐𝔸 ℙℝ𝔸𝕁𝔸ℙ𝔸𝕋𝕀</h3>
+      <p align="center">
+        <a href="https://github.com/hackerX-Sam/savyaprajapati">
+          <img src="https://opengraph.githubassets.com/1/hackerX-Sam/savyaprajapati" width="100%" alt="Savya Prajapati Preview">
+        </a>
+      </p>
+      <p align="center">
+        A stunning, interactive personal portfolio and web experience showcasing projects and skills.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`</sub>
+
+</div>
